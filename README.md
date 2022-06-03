@@ -1,4 +1,4 @@
-# Instrumentation_MiniProject3
+# Instrumentation_MiniProjects
 In this project, we use STM32CubeIDE and Proteus 8 Professional to program a MCU and simulate it.
 Q1: We create 2 blinking LEDs.
 Q2: We create 2 LEDs that are controlled by two push up buttons.When we push the first button, the green LED turns on and the red LED turns off.
